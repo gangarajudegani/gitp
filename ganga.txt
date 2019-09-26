@@ -1,2 +1,3 @@
 this is second change for git
-
+we written file for changing third commit in sample file in git
+ganga.txt file haing all commit messgaes
